@@ -1,3 +1,36 @@
+<table align="center">
+<tbody>
+	<tr>
+		<td>Paradigm</td>
+    <td>Health-oriented</td>
+	</tr>
+	<tr>
+		<td>First appeared</td>
+		<td>August 11, 1999</td>
+	</tr>
+	<tr>
+		<td>Typing discipline</td>
+		<td>Inferred, static, strong<br>Dynamic, strong</td>
+	</tr>
+	<tr>
+		<td>Implementation language</td>
+		<td>Japanese</td>
+	</tr>
+	<tr>
+		<td>Platform</td>
+		<td>🌏</td>
+	</tr>
+	<tr>
+		<td>OS</td>
+		<td>macOS</td>
+	</tr>
+	<tr>
+		<td>Website</td>
+		<td>https://ajfafg.github.io</td>
+	</tr>
+</tbody>
+</table>
+
 <p align="left">
   <a href="https://github.com/MIZOGUCHIKoki/MIZOGUCHIKoki/">
     <img src="https://komarev.com/ghpvc/?username=MIZOGUCHIKoki" alt="MIZOGUCHIKoki" />
