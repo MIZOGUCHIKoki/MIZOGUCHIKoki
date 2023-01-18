@@ -1,16 +1,17 @@
+## Overview
 <table align="center">
 <tbody>
 	<tr>
-		<td>Paradigm</td>
-    <td>Health-oriented</td>
+		<td>Homepage</td>
+    <td>https://www.ugs.kochi-tech.ac.jp/250373b/self_intro/index.html</td>
 	</tr>
 	<tr>
-		<td>First appeared</td>
-		<td>August 11, 1999</td>
+		<td>My location></td>
+		<td>Kochi-Pref. Japan
 	</tr>
 	<tr>
-		<td>Typing discipline</td>
-		<td>Inferred, static, strong<br>Dynamic, strong</td>
+		<td>Research area</td>
+		<td>Cryptography, Authentication, Network security</td>
 	</tr>
 	<tr>
 		<td>Implementation language</td>
@@ -25,8 +26,8 @@
 		<td>macOS</td>
 	</tr>
 	<tr>
-		<td>Website</td>
-		<td>https://ajfafg.github.io</td>
+		<td>Blog</td>
+		<td>https://mizomizo0515.hatenablog.com/</td>
 	</tr>
 </tbody>
 </table>
@@ -43,7 +44,7 @@
   </a>
 </p>
 
-<a href="https://github.com/MIZOGUCHIKoki/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+## 🏆 Github Profile Trophy
 <a href="https://github.com/MIZOGUCHIKoki/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=MIZOGUCHIKoki&column=8&theme=gruvbox&no-frame=true"/>
 </a>
