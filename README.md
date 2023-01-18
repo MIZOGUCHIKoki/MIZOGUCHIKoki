@@ -44,7 +44,7 @@
   </a>
 </p>
 
-## 🏆 Github Profile Trophy
+## 🏆 Github Profile Trophy & Status
 <a href="https://github.com/MIZOGUCHIKoki/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=MIZOGUCHIKoki&column=8&theme=gruvbox&no-frame=true"/>
 </a>
