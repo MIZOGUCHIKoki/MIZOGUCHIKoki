@@ -6,7 +6,7 @@
     <td>https://www.ugs.kochi-tech.ac.jp/250373b/self_intro/index.html</td>
 	</tr>
 	<tr>
-		<td>My location></td>
+		<td>My location</td>
 		<td>Kochi-Pref. Japan
 	</tr>
 	<tr>
@@ -33,7 +33,7 @@
 </table>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=MIZOGUCHIKoki&style=for-the-badge"/>
+    <img src="https://komarev.com/ghpvc/?username=MIZOGUCHIKoki&style=plastic"/>
     <img height="20" src="https://img.shields.io/twitter/follow/k_mizomizo?label=Twitter&logo=twitter&style=plastic" />
     <img height="20" src="https://img.shields.io/github/followers/MIZOGUCHIKoki?label=follow&logo=github&style=plastic" />
     <img height="20" src="https://img.shields.io/github/issues/MIZOGUCHIKoki/MIZOGUCHIKoki.svg?&style=plastic" />
