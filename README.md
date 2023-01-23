@@ -39,6 +39,7 @@
    	 <img height="20" src="https://img.shields.io/github/issues/MIZOGUCHIKoki/MIZOGUCHIKoki.svg?&style=plastic" />
 </p>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MIZOGUCHIKoki&theme=dracula" />
 
 ## 🏆 Github Profile Trophy & Status
 <a href="https://github.com/MIZOGUCHIKoki/github-profile-trophy">
