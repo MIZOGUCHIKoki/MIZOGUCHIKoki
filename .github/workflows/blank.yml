@@ -16,5 +16,6 @@ jobs:
       - name: Build
         run: |
           ls -al
-          chmod 700 ~/test.java 
-          sudo java ~/test.java
+          pwd
+          chmod 700 test.java 
+          sudo java test.java
