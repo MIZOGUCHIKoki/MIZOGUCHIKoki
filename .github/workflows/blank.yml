@@ -14,4 +14,7 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
       - name: Build
-        run: java ~/test.java
+        run: |
+          ls -al
+          chmod 700 ~/test.java 
+          sudo java ~/test.java
