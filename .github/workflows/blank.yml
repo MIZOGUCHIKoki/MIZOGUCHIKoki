@@ -1,7 +1,6 @@
 name: Java CI
 
 on:
-  - push
   - pull_request
 
 jobs:
@@ -17,7 +16,4 @@ jobs:
           distribution: 'temurin'
       - name: Build
         run: |
-          ls -al
-          pwd
-          chmod 700 test.java 
           sudo java test.java
