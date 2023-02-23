@@ -34,7 +34,6 @@
 
 <p align="left">
    	 <img height="20" src="https://komarev.com/ghpvc/?username=MIZOGUCHIKoki&style=plastic" />
-   	 <img height="20" src="https://img.shields.io/twitter/follow/k_mizomizo?label=Twitter&logo=twitter&style=plastic" />
     	 <img height="20" src="https://img.shields.io/github/followers/MIZOGUCHIKoki?label=follow&logo=github&style=plastic" />
    	 <img height="20" src="https://img.shields.io/github/issues/MIZOGUCHIKoki/MIZOGUCHIKoki.svg?&style=plastic" />
 </p>
