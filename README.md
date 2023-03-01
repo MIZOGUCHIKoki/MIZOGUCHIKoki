@@ -19,7 +19,7 @@
 	</tr>
 	<tr>
 		<td>Platform</td>
-		<td>🌏</td>
+		<td>🇯🇵 in 🌏</td>
 	</tr>
 	<tr>
 		<td>OS</td>
