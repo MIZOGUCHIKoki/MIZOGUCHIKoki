@@ -29,6 +29,10 @@
 		<td>Blog</td>
 		<td>https://mizomizo0515.hatenablog.com/</td>
 	</tr>
+	<tr>
+		<td>❤️</td>
+		<td>最上級感謝の意</td>
+	</tr>
 </tbody>
 </table>
 
