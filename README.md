@@ -18,7 +18,7 @@
 		<td>Japanese</td>
 	</tr>
 	<tr>
-		<td>I am AT</td>
+		<td>Love</td>
 		<td>🇯🇵 in 🌏</td>
 	</tr>
 	<tr>
