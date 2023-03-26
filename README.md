@@ -18,7 +18,7 @@
 		<td>Japanese</td>
 	</tr>
 	<tr>
-		<td>Platform</td>
+		<td>I am AT</td>
 		<td>🇯🇵 in 🌏</td>
 	</tr>
 	<tr>
