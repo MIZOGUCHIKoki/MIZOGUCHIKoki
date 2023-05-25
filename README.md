@@ -45,10 +45,6 @@
 <img height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MIZOGUCHIKoki&theme=dracula" />
 
 ## 🏆 Github Profile Trophy & Status
-<a href="https://github.com/MIZOGUCHIKoki/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=MIZOGUCHIKoki&column=8&theme=gruvbox&no-frame=true"/>
-</a>
-<p align="left"> 
-  <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIZOGUCHIKoki&layout=compact&show_icons=true&theme=dracula&layout=default" />
-  <img alt="github stats" height="200" src="https://github-readme-stats.vercel.app/api?username=MIZOGUCHIKoki&theme=dracula&show_icons=ture" />
-</p>
+![Trophy](https://github-profile-trophy.vercel.app/?username=MIZOGUCHIKoki&column=8&theme=gruvbox&no-frame=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MIZOGUCHIKoki&theme=nord)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MIZOGUCHIKoki&show_icons=true&count_private=true&line_height=40&theme=nord)
