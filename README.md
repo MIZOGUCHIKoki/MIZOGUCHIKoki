@@ -41,7 +41,8 @@
     	 <img height="20" src="https://img.shields.io/github/followers/MIZOGUCHIKoki?label=follow&logo=github&style=plastic" />
    	 <img height="20" src="https://img.shields.io/github/issues/MIZOGUCHIKoki/MIZOGUCHIKoki.svg?&style=plastic" />
 </p>
-
+- 情報学群実験の実験課題や，各授業の演習課題は[こちら](https://github.com/MIZOGUCHIKoki/Programming-Lab/blob/main/README.md)にまとめました．
+  - アクセス権の付与は個別に行いますので，[こちら]のIssueにコメントしてください．
 <img height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MIZOGUCHIKoki&theme=dracula" />
 
 ## 🏆 Github Profile Trophy & Status
