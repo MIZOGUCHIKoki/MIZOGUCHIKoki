@@ -42,7 +42,7 @@
    	 <img height="20" src="https://img.shields.io/github/issues/MIZOGUCHIKoki/MIZOGUCHIKoki.svg?&style=plastic" />
 </p>
 
-- 情報学群実験の実験課題や，各授業の演習課題は[こちら](https://github.com/MIZOGUCHIKoki/Programming-Lab/blob/main/README.md)にまとめました．
+- 情報学群実験の実験課題や，各授業の演習課題は[こちら](https://github.com/MIZOGUCHIKoki/Programming-Lab/blob/main/README.md)にまとめました．（2023/10/10現在非公開中） 
   
 <img height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MIZOGUCHIKoki&theme=dracula" />
 
