@@ -11,7 +11,7 @@
 	</tr>
 	<tr>
 		<td>Research area</td>
-		<td>Cryptography, Authentication, Network security</td>
+		<td>Cryptography, Authentication protocol, Network security</td>
 	</tr>
 	<tr>
 		<td>Implementation language</td>
