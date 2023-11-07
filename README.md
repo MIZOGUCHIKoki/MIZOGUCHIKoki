@@ -27,7 +27,7 @@
 	</tr>
 	<tr>
 		<td>❤️</td>
-		<td>最上級感謝の意</td>
+		<td>❤️ stamp expresses the highest level of gratitude in my comment.</td>
 	</tr>
 </tbody>
 </table>
