@@ -3,7 +3,7 @@
 <tbody>
 	<tr>
 		<td>Homepage</td>
-    <td>https://www.ugs.kochi-tech.ac.jp/250373b/self_intro/index.html</td>
+    <td>https://www.ugs.kochi-tech.ac.jp/250373b</td>
 	</tr>
 	<tr>
 		<td>My location</td>
