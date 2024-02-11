@@ -37,8 +37,6 @@
     	 <img height="20" src="https://img.shields.io/github/followers/MIZOGUCHIKoki?label=follow&logo=github&style=plastic" />
    	 <img height="20" src="https://img.shields.io/github/issues/MIZOGUCHIKoki/MIZOGUCHIKoki.svg?&style=plastic" />
 </p>
-
-- Source codes that I created in Programming labs and class works are [hear](https://github.com/MIZOGUCHIKoki/Programming-Lab/blob/main/README.md).（Hidden now..） 
   
 <img height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MIZOGUCHIKoki&theme=dracula" />
 
