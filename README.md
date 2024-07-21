@@ -40,6 +40,8 @@
   
 <img height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MIZOGUCHIKoki&theme=dracula" />
 
+[![My Skills](https://skillicons.dev/icons?i=c,docker,git,github,linux,mysql,py,rails,raspberrypi,ruby,sqlite,stackoverflow,swift,ubuntu,vim&theme=light)](https://skillicons.dev)
+
 ## 🏆 Github Profile Trophy & Status
 ![Trophy](https://github-profile-trophy.vercel.app/?username=MIZOGUCHIKoki&column=8&theme=gruvbox&no-frame=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MIZOGUCHIKoki&theme=nord)
