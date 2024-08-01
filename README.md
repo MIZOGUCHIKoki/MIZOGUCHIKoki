@@ -6,8 +6,8 @@
     <td>https://www.ugs.kochi-tech.ac.jp/250373b</td>
 	</tr>
 	<tr>
-		<td>My location</td>
-		<td>Kochi-Pref. Japan
+		<td>I'm in </td>
+		<td>Kochi-Pref., Japan.
 	</tr>
 	<tr>
 		<td>Research area</td>
