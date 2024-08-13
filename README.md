@@ -10,8 +10,8 @@
 		<td>Kochi-Pref., Japan.
 	</tr>
 	<tr>
-		<td>Research area</td>
-		<td>Cryptography, Authentication protocol (RADIUS, EAP)</td>
+		<td>Research</td>
+		<td>Authentication protocol, One-time password</td>
 	</tr>
 	<tr>
 		<td>Implementation language</td>
