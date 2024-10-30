@@ -1,33 +1,21 @@
 ## Overview
-<table align="center">
+<table align="left">
 <tbody>
 	<tr>
 		<td>Homepage</td>
-    <td>https://www.ugs.kochi-tech.ac.jp/250373b</td>
+    		<td>https://www.ugs.kochi-tech.ac.jp/250373b</td>
 	</tr>
 	<tr>
-		<td>I'm in </td>
-		<td>Kochi-Pref., Japan.
+		<td>Institute</td>
+		<td>School of Informatics, Kochi University of Technology, Japan.</td>
 	</tr>
 	<tr>
 		<td>Research</td>
 		<td>Authentication protocol, One-time password</td>
 	</tr>
 	<tr>
-		<td>Implementation language</td>
-		<td>Japanese</td>
-	</tr>
-	<tr>
-		<td>Love</td>
-		<td>🇯🇵 in 🌏</td>
-	</tr>
-	<tr>
-		<td>OS</td>
-		<td>macOS</td>
-	</tr>
-	<tr>
 		<td>❤️</td>
-		<td>❤️ stamp expresses the highest level of gratitude in my comment.</td>
+		<td>❤️ stamp expresses my highest thanks in my comment.</td>
 	</tr>
 </tbody>
 </table>
