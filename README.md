@@ -3,7 +3,7 @@
 <tbody>
 	<tr>
 		<td>Homepage</td>
-    		<td>https://www.ugs.kochi-tech.ac.jp/250373b</td>
+    		<td>https://www.ugs.kochi-tech.ac.jp/250373b <br> https://mizoguchikoki.github.io</td>
 	</tr>
 	<tr>
 		<td>Institute</td>
