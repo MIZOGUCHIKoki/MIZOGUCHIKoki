@@ -21,6 +21,6 @@ I'm a student of Kochi University of Technology and researching network construc
 [![My Skills](https://skillicons.dev/icons?i=c,docker,git,github,linux,mysql,py,rails,raspberrypi,ruby,sqlite,stackoverflow,swift,ubuntu,vim&theme=light)](https://skillicons.dev)
 ## 🏆 Github Profile Trophy & Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIZOGUCHIKoki&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIZOGUCHIKoki&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIZOGUCHIKoki&langs_count=7&layout=dount)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=MIZOGUCHIKoki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
