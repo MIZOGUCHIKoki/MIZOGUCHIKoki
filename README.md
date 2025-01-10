@@ -4,7 +4,7 @@ I'm a student of Kochi University of Technology and researching network construc
 
 ❤️ means my highest pressure in my comments and reactions!!!
 
-- [Here](https://www.ugs.kochi-tech.ac.jp/250373/) is my official web page.
+- [Here](https://www.ugs.kochi-tech.ac.jp/250373b/) is my official web page.
 - [Here](https://mizoguchikoki.github.io/) is my official web page, which includes a 25-minute to 5-minute cycle timer constructed using React.
 
 
