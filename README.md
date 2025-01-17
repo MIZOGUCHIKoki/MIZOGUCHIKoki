@@ -17,8 +17,10 @@ I'm a student of Kochi University of Technology and researching network construc
 
 <img height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MIZOGUCHIKoki&theme=dracula" />
 -->
+<div align="center">
+   <img src="https://skillicons.dev/icons?i=c,css,docker,git,github,githubactions,html,java,latex,linux,notion,npm,matlab,mysql,py,rails,raspberrypi,react,ruby,sqlite,stackoverflow,swift,ts,ubuntu,vim&theme=dark&perline=12">
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=c,docker,git,github,linux,mysql,py,rails,raspberrypi,ruby,sqlite,stackoverflow,swift,ubuntu,vim&theme=light)](https://skillicons.dev)
 ## 🏆 Github Profile Trophy & Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIZOGUCHIKoki&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIZOGUCHIKoki&langs_count=7&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
