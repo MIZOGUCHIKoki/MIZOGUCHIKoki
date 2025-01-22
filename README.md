@@ -18,7 +18,7 @@ I'm a student of Kochi University of Technology and researching network construc
 <img height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MIZOGUCHIKoki&theme=dracula" />
 -->
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=c,css,docker,git,github,githubactions,html,java,latex,linux,notion,npm,matlab,mysql,py,rails,raspberrypi,react,ruby,sqlite,stackoverflow,swift,ts,ubuntu,vim&theme=dark&perline=12">
+   <img src="https://skillicons.dev/icons?i=c,css,docker,git,github,githubactions,html,java,latex,linux,notion,npm,matlab,mysql,py,rails,raspberrypi,react,ruby,sqlite,stackoverflow,swift,ts,ubuntu,vim&theme=dark&perline=13">
 </div>
 
 ## 🏆 Github Profile Trophy & Status
