@@ -1,12 +1,11 @@
 ## Overview
 
-I'm a student of Kochi University of Technology and researching network construction, security and authentication technologies.
+I'm a student of The Graduate University for Advanced Studies, called SOKENDAI. 
+I'm researching network secruriy and authentication protocol at National Institute of Informatics, JAPAN.
 
 ❤️ means my highest pressure in my comments and reactions!!!
 
-- [Here](https://www.ugs.kochi-tech.ac.jp/250373b/) is my official web page.
-- [Here](https://mizoguchikoki.github.io/) is my official web page, which includes a 25-minute to 5-minute cycle timer constructed using React.
-
+- [Here]((https://mizoguchikoki.github.io/) is my official web page.
 
 <!--
 <p align="left">
