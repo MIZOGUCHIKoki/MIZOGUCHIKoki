@@ -19,9 +19,3 @@ I'm researching network secruriy and authentication protocol at National Institu
 <div align="center">
    <img src="https://skillicons.dev/icons?i=c,css,docker,git,github,githubactions,html,java,latex,linux,notion,npm,matlab,mysql,py,rails,raspberrypi,react,ruby,sqlite,stackoverflow,swift,ts,ubuntu,vim&theme=dark&perline=13">
 </div>
-
-## 🏆 Github Profile Trophy & Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIZOGUCHIKoki&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIZOGUCHIKoki&langs_count=7&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=MIZOGUCHIKoki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
